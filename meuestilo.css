@@ -1,0 +1,64 @@
+
+
+.mynav{
+	background-color: #fffff;
+}
+.mynav a{
+	color:black;
+
+}
+.mynav .nav a:hover{
+	color:#FA542D;
+	font-weight: bold;
+	border: 2px solid #FA542D;
+
+}
+.myiconnav{
+	background-color: #FA542D;
+
+}
+.mytextcarousel{
+	margin-top: -450px !important;
+}
+
+.mysombra{
+	text-shadow: black 0.1em 0.1em 0.2em;
+
+}
+.mybtn{
+	font-size: 12px;
+	background: rgb(0,0,0,0.2);
+	color:white;
+	border: 2px solid #ffffff;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+.mybtn:hover{
+	background: #FA542D;
+}
+
+.mytitlesection:hover{
+	color: #FA542D;
+}
+
+.mybtnsection{
+	font-size: 12px;
+	background-color: #FA542D;
+	color:#ffffff;
+}
+
+.mybtnsection:hover{
+	color:#000000;
+	border: 2px solid #FA542D;
+	background-color: #ffffff;
+}
+
+.myicon{
+	height: 150px;
+	color: rgb(255,124,220);
+
+}
+
+.icon{
+	color: #FA542D;
+	font-size: 80px;
+}
