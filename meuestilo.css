@@ -62,3 +62,18 @@
 	color: #FA542D;
 	font-size: 80px;
 }
+
+.bg-parallax{
+	background: url(./imagens/praia-reservada.png) fixed ;
+	background-repeat: round;
+	position: relative;
+	background-color: #000000;
+}
+.mytitlesectionparallax{
+	text-shadow: black 0.1em 0.1em 0.2em;
+	color:#ffffff;
+}
+.mysubtitlesectionparallax{
+	text-shadow: black 0.1em 0.1em 0.2em;
+	color:#ffffff;
+}
