@@ -83,3 +83,25 @@
 	color:#E35E1E;
 
 }
+
+.mycardlink-planos{
+	color: #E35E1E;
+}
+
+.mygreen{
+	color:#22EB36;
+}
+
+.mybgsectioncoments{
+	background-color: #FA542D;
+}
+
+.mytitlesectioncoments{
+	color:#ffffff;
+}
+.mytitlesectioncoments:hover{
+	color:#FFD2C2;
+}
+.mycoments{
+	background-color:#FFD2C2;
+}
