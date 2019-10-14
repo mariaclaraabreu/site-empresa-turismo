@@ -104,5 +104,14 @@
 }
 .mycoments{
 	background-color:#FFD2C2;
-	box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) ;
+	-webkit-box-shadow: -2px 18px 23px -19px rgba(0,0,0,1);
+	-moz-box-shadow: -2px 18px 23px -19px rgba(0,0,0,1);
+	box-shadow: -2px 18px 23px -19px rgba(0,0,0,1);
+}
+
+.mysectioncontact{
+	background: url(./imagens/textura.png) fixed ;
+	background-repeat: repeat;
+	position: relative;
+	background-color: #ffffff;
 }
