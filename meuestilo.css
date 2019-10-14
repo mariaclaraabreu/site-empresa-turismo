@@ -115,3 +115,22 @@
 	position: relative;
 	background-color: #ffffff;
 }
+
+
+.mycampoform{
+	border-color: #fff;
+}
+.mycampoform:focus{
+	border-color: #ced4da;
+	box-shadow: 0 0 0 0.0rem rgba(0, 123, 255, 0.25)
+}
+
+.mycampoform::-webkit-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+  font-size: 13px;
+}
+
+.mylabelform{
+	color: #FA542D;
+}
